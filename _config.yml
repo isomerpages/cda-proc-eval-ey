@@ -1,9 +1,9 @@
 title: Title
 url: https://www.open.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/cda_logo.png
 colors:
   primary-color: "#0040a1"
-  secondary-color: "#c2ebeb"
+  secondary-color: "#9dcdcd"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2niwcp8you13z.amplifyapp.com
 prod: https://master.d2j07ibb5oum5i.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/cda_logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
