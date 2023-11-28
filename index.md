@@ -11,7 +11,7 @@ sections:
       title: The Socio-Economic Impact of HIV/AIDS  in Singapore
       subtitle: Latest Study
       background: /images/home_hero_image_2.png
-      variant: center
+      variant: image
       size: md
       alignment: right
       backgroundColor: black
