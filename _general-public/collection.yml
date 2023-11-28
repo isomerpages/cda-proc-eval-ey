@@ -2,4 +2,4 @@ collections:
   general-public:
     output: true
     order:
-      - Example Title.md
+      - COVID 19 Epidemiology.md
