@@ -2,9 +2,9 @@ collections:
   general-public:
     output: true
     order:
-      - E Services/Outbreak Dashboard.md
-      - E Services/Overview.md
       - E Services/.keep
+      - E Services/Overview.md
+      - E Services/Outbreak Dashboard.md
       - Resources/Overview.md
       - Resources/Outbreak Updates.md
       - Resources/National Health Initiatives.md
