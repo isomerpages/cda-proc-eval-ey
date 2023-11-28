@@ -2,6 +2,7 @@ collections:
   general-public:
     output: true
     order:
+      - EServices and Resources/Summary.md
       - EServices and Resources/Outbreak Updates.md
       - EServices and Resources/National Health Initiatives.md
       - EServices and Resources/Vaccination Information.md
