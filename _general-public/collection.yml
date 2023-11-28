@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Preventive Measures.md
+      - COVID 19 Epidemiology.md
       - Communicable Diseases and Conditions.md
       - Outbreak Updates.md
       - National Health Initiatives.md
       - Vaccination Information.md
-      - COVID 19 Epidemiology.md
