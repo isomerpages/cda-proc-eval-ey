@@ -2,5 +2,5 @@ collections:
   general-public:
     output: true
     order:
-      - eServices and Resources for General Public.md
+      - Services and Resources for General Public.md
       - COVID 19 Epidemiology.md
