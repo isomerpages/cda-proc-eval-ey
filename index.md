@@ -33,13 +33,6 @@ sections:
           announcement: Announcement content
           link_text: ""
           link_url: ""
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - textcards:
       title: Text Cards
       subtitle: Add informational text
