@@ -2,6 +2,7 @@ collections:
   general-public:
     output: true
     order:
+      - Preventive Measures.md
       - Communicable Diseases and Conditions.md
       - Outbreak Updates.md
       - National Health Initiatives.md
