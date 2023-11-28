@@ -2,6 +2,7 @@ collections:
   general-public:
     output: true
     order:
+      - E Services/.keep
       - Resources/Overview.md
       - Resources/Outbreak Updates.md
       - Resources/National Health Initiatives.md
