@@ -13,7 +13,7 @@ sections:
       variant: floating
       size: md
       alignment: right
-      backgroundColor: white
+      backgroundColor: black
       button: Learn more
       url: /contact-us/
       key_highlights:
