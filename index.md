@@ -14,10 +14,10 @@ sections:
       url: learn more
       key_highlights:
         - title: For General Public
-          description: Important highlight A is important
+          description: Resources and eServices
           url: https://google.com
         - title: For Professionals
-          description: Important highlight B is equally important
+          description: Resources and eServices
           url: https://gmail.com
       variant: side
       size: md
