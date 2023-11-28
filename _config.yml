@@ -3,18 +3,18 @@ url: https://www.open.gov.sg
 favicon: /images/cda_logo_2.png
 colors:
   primary-color: "#0040a1"
-  secondary-color: "#0040a1"
+  secondary-color: "#2860b4"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#c2ebeb"
     - title: media-color-two
       color: "#cadfff"
     - title: media-color-three
-      color: "#00838f"
+      color: "#2b5656"
     - title: media-color-four
-      color: "#00838f"
+      color: "#2b5656"
     - title: media-color-five
-      color: "#00838f"
+      color: "#2b5656"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
