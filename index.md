@@ -13,10 +13,10 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: General Public
+        - title: For General Public
           description: Important highlight A is important
           url: https://google.com
-        - title: Professionals
+        - title: For Professionals
           description: Important highlight B is equally important
           url: https://gmail.com
       variant: center
