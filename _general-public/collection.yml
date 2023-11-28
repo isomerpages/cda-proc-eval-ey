@@ -2,14 +2,14 @@ collections:
   general-public:
     output: true
     order:
-      - E Services/Health Educational Hub.md
-      - E Services/Travel Advisory Portal.md
-      - E Services/Clinic Locator.md
-      - E Services/Vaccination Scheduler.md
-      - E Services/Symptoms Checker.md
       - E Services/.keep
       - E Services/Overview.md
       - E Services/Outbreak Dashboard.md
+      - E Services/Symptoms Checker.md
+      - E Services/Clinic Locator.md
+      - E Services/Vaccination Scheduler.md
+      - E Services/Travel Advisory Portal.md
+      - E Services/Health Educational Hub.md
       - Resources/Overview.md
       - Resources/Outbreak Updates.md
       - Resources/National Health Initiatives.md
