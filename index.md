@@ -52,8 +52,8 @@ sections:
           linktext: Learn more
           url: ""
   - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
+      title: Info-columns 123
+      subtitle: Testing Tseting
       id: infocols
       linktext: Learn more
       infoboxes:
