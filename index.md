@@ -12,8 +12,17 @@ sections:
       background: /images/home_hero_image_2.png
       variant: floating
       size: md
-      alignment: left
-      backgroundColor: gray
+      alignment: right
+      backgroundColor: white
+      button: Learn more
+      url: /contact-us/
+      key_highlights:
+        - title: For General Public
+          description: Key Highlight description
+          url: ""
+        - title: For Proffesionals
+          description: Key Highlight description
+          url: ""
   - announcements:
       title: Announcements
       id: announcements
@@ -42,4 +51,16 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - infocols:
+      title: Info-columns
+      subtitle: Add snippets of text in columns
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
+        - title: Infobox
+          description: Infobox description
 ---
