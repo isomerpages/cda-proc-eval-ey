@@ -1,8 +1,10 @@
 logo: /images/cda_logo_2.png
 links:
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
-  - title: Contact Us
-    url: /contact-us/
+  - title: About Us
+    collection: about
+  - title: Events & News
+    url: /permalink
+  - title: For General Public
+    collection: general-public
+  - title: For Professionals
+    collection: professionals
