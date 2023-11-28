@@ -1,8 +1,8 @@
 logo: /images/cda_logo_2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Example Page
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: Contact Us
+    url: /contact-us/
