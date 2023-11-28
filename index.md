@@ -7,11 +7,11 @@ permalink: /
 notification: Increase in Mosquito Activity Detected; Heightened Risk of Dengue and Zika.
 sections:
   - hero:
-      title: Communicable Diseases Agency
-      subtitle: Hero subtitle
-      background: /images/home_hero_image_1.png
-      button: Contact Us
-      url: /contact-us/
+      title: The Socio-Economic Impact of HIV/AIDS  in Singapore
+      subtitle: Latest Study
+      background: /images/home_hero_image_2.png
+      button: Learn more
+      url: learn more
       key_highlights:
         - title: For General Public
           description: Important highlight A is important
@@ -19,7 +19,10 @@ sections:
         - title: For Professionals
           description: Important highlight B is equally important
           url: https://gmail.com
-      variant: center
+      variant: side
+      size: md
+      alignment: left
+      backgroundColor: gray
   - announcements:
       title: Announcements
       id: announcements
