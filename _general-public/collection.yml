@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Services and Resources/.keep
-      - Services and Resources for General Public.md
