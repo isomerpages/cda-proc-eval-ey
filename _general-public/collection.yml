@@ -2,6 +2,7 @@ collections:
   general-public:
     output: true
     order:
+      - E Services/Health Educational Hub.md
       - E Services/Travel Advisory Portal.md
       - E Services/Clinic Locator.md
       - E Services/Vaccination Scheduler.md
