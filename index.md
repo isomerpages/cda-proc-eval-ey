@@ -19,7 +19,7 @@ sections:
         - title: For Professionals
           description: Resources and eServices
           url: https://gmail.com
-      variant: side
+      variant: floating
       size: md
       alignment: left
       backgroundColor: gray
