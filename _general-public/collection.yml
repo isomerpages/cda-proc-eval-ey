@@ -2,6 +2,7 @@ collections:
   general-public:
     output: true
     order:
+      - EServices and Resources/COVID 19 Epidemiology.md
       - EServices and Resources/Preventive Measures.md
       - EServices and Resources/.keep
       - Communicable Diseases and Conditions.md
