@@ -2,11 +2,11 @@ collections:
   general-public:
     output: true
     order:
-      - EServices and Resources/Overview.md
-      - EServices and Resources/Outbreak Updates.md
-      - EServices and Resources/National Health Initiatives.md
-      - EServices and Resources/Vaccination Information.md
-      - EServices and Resources/Communicable Diseases and Conditions.md
-      - EServices and Resources/COVID 19 Epidemiology.md
-      - EServices and Resources/Preventive Measures.md
-      - EServices and Resources/.keep
+      - Overview/Overview.md
+      - Overview/Outbreak Updates.md
+      - Overview/National Health Initiatives.md
+      - Overview/Vaccination Information.md
+      - Overview/Communicable Diseases and Conditions.md
+      - Overview/COVID 19 Epidemiology.md
+      - Overview/Preventive Measures.md
+      - Overview/.keep
