@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/cda_logo_2.png
 colors:
   primary-color: "#0040a1"
-  secondary-color: "#77abab"
+  secondary-color: "#0040a1"
   media-colors:
     - title: media-color-one
       color: "#49759a"
