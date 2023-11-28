@@ -2,7 +2,6 @@ collections:
   general-public:
     output: true
     order:
-      - Services and Resources/COVID 19 Epidemiology.md
       - Services and Resources/Vaccination Information.md
       - Services and Resources/National Health Initiatives.md
       - Services and Resources/Outbreak Updates.md
