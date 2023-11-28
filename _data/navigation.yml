@@ -4,17 +4,15 @@ links:
     collection: about
   - title: Events & News
     url: /permalink
-  - title: For Professionals
-    collection: professionals
   - title: For General Public
     url: /permalink
     sublinks:
       - title: Overview
-        url: /permalink
+        url: /general-public/services-and-resources/overview/
       - title: Outbreak Updates
         url: /permalink
       - title: COVID 19 Epidemiology
-        url: /permalink
+        url: /general-public/services-and-resources/permalink/
       - title: National Health Initiatives
         url: /permalink
       - title: Vaccination Information
@@ -23,3 +21,5 @@ links:
         url: /permalink
       - title: Diseases and Conditions
         url: /permalink
+  - title: For Professionals
+    collection: professionals
