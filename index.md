@@ -9,18 +9,11 @@ sections:
   - hero:
       title: The Socio-Economic Impact of HIV/AIDS  in Singapore
       subtitle: Latest Study
-      background: /images/hero-banner.png
-      variant: center
+      background: /images/home_hero_image_2.png
+      variant: floating
       size: md
       alignment: left
       backgroundColor: gray
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
   - announcements:
       title: Announcements
       id: announcements
