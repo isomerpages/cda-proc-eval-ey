@@ -2,7 +2,7 @@
 layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/cda_logo.png
 permalink: /
 notification: Increase in Mosquito Activity Detected; Heightened Risk of Dengue and Zika.
 sections:
