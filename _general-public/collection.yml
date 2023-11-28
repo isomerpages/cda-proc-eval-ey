@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Services and Resources/Communicable Diseases and Conditions.md
-      - Services and Resources/Services and Resources for General Public.md
+      - Services and Resources/Preventive Measures.md
       - Services and Resources/.keep
