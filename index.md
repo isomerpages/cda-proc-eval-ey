@@ -13,8 +13,8 @@ sections:
       background: /images/home_hero_image_2.png
       variant: floating
       size: md
-      alignment: right
-      backgroundColor: black
+      alignment: left
+      backgroundColor: white
       button: Learn more
       url: /contact-us/
       key_highlights:
