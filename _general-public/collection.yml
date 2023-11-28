@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - EServices and Resources/.keep
-      - Preventive Measures.md
       - COVID 19 Epidemiology.md
       - Communicable Diseases and Conditions.md
       - Outbreak Updates.md
