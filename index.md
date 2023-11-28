@@ -21,7 +21,7 @@ sections:
         - title: For General Public
           description: Key Highlight description
           url: ""
-        - title: For Proffesionals
+        - title: For Professionals
           description: Key Highlight description
           url: ""
   - announcements:
