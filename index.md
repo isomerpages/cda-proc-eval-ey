@@ -29,7 +29,7 @@ sections:
       id: announcements
       subtitle: Alert
       announcement_items:
-        - title: News
+        - title: "CDA Partners with Local Hospitals "
           date: 28 November 2023
           announcement: CDA Partners with Local Hospitals for Enhanced Disease Monitoring
             and Control
