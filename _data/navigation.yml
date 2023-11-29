@@ -17,5 +17,7 @@ links:
     collection: events
   - title: News
     collection: news
+  - title: Events 2
+    url: /events
   - title: News 2
-    url: /news
+    url: /resources/for-general-public
