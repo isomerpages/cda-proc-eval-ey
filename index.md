@@ -18,10 +18,10 @@ sections:
         - title: About CDA
           description: Find out what we do
           url: ""
-        - title: E-Services for General Public
+        - title: For General Public
           description: Lorem Ipsum
           url: ""
-        - title: E-services For Professionals
+        - title: For Professionals
           description: Lorem Ipsum
           url: ""
       button: Learn more
