@@ -18,58 +18,41 @@ sections:
       button: Read more
       url: /contact-us/
       key_highlights:
-        - title: For General Public
+        - title: About us
+          description: Learn more about CDA
+          url: ""
+        - title: For general public
           description: eServices and Resources
           url: ""
         - title: For Professionals
           description: eServices and Resources
           url: ""
   - resources:
-      title: Latest Resources
-      subtitle: Stay informed with our
+      title: News and Information
+      subtitle: Latest updates
       id: resources
       button: View all Resources
   - textcards:
       title: Popular Links
-      subtitle: Popular Links
+      subtitle: Looking for something?
       id: textcards
-      description: Text card description
       cards:
-        - title: Card
-          description: Card description
+        - title: Testing Positive for COVID-19
+          description: Learn what to do when you test positive for COVID-19
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: FAQs
+          description: Most frequently asked questions on communicable diseases
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Outbreak Updates
+          description: Last updated 29 Nov 2023
           linktext: Learn more
           url: ""
-  - announcements:
-      title: Latest CDA Updates
-      id: announcements
-      subtitle: Alert
-      announcement_items:
-        - title: CDA Partners with Local Hospitals
-          date: 28 November 2023
-          announcement: "News: CDA Partners with Local Hospitals for Enhanced Disease
-            Monitoring and Control"
-          link_text: Learn more >
-          link_url: /
-        - title: Event
-          date: 08 November 2023
-          announcement: 'Event: "Living with HIV" – A support and awareness workshop this
-            month'
-          link_text: Register now >
-          link_url: /
-        - title: Update
-          date: 29 November 2023
-          announcement: CDA releases updated Health and Safety Guidelines for schools and
-            educational institutes
-          link_text: Learn more >
-          link_url: /
+        - title: Safe Travels
+          description: Find steps you can take to stay safe while travelling
+          linktext: Read Resource
+          url: ""
   - infocols:
       title: Info-columns 123
       subtitle: Testing Tseting
