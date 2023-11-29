@@ -47,8 +47,8 @@ sections:
           link_text: Learn more >
           link_url: /
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Popular Links
+      subtitle: Popular Links
       id: textcards
       description: Text card description
       cards:
@@ -76,4 +76,9 @@ sections:
           description: Infobox description
         - title: Infobox
           description: Infobox description
+  - resources:
+      title: Latest Resources
+      subtitle: Stay informed with our
+      id: resources
+      button: View all Resources
 ---
