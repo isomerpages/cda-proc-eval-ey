@@ -61,7 +61,7 @@ sections:
           announcement: In a groundbreaking initative, the Communicable Diseases Agency
             (CDA) has forged a strategic partnership with local hospitals to
             elevate disease monitoring control...
-          link_text: Read more→
+          link_text: Read more →
           link_url: /
         - title: '"Living with HIV" A Support and Awareness Workshop This October'
           date: 01 October 2023
@@ -69,7 +69,7 @@ sections:
             support and awareness workshop. This event aims to foster a
             compassionate community, providing valuable insights into the
             challenges faced by individuals living with HIV.
-          link_text: Register now→
+          link_text: Register now →
           link_url: /
   - infopic:
       id: infopic
