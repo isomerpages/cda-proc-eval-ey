@@ -22,3 +22,5 @@ links:
         url: /resourcesandmedia/announcements
       - title: Updates
         url: /resourcesandmedia/updates
+  - title: New resource room
+    resource_room: true
