@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - 2023/Living with HIV 2023.md
       - 2023/.keep
