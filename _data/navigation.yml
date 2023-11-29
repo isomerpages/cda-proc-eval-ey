@@ -4,7 +4,21 @@ links:
     collection: about
   - title: E-Services
     collection: e-services
-  - title: Media & Resources
-    resource_room: true
   - title: Events
     collection: events
+  - title: Resources
+    url: /
+    sublinks:
+      - title: Resources For General Public
+        url: /resources/for-general-public
+      - title: Resources For Professionals
+        url: /resources/for-professionals
+  - title: Media
+    url: /
+    sublinks:
+      - title: News
+        url: /resources/news
+      - title: Announcements
+        url: /resources/announcements
+      - title: Updates
+        url: /resources/updates
