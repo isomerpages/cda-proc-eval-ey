@@ -20,8 +20,8 @@ links:
     url: /permalink
     sublinks:
       - title: News
-        url: /news
+        url: news/
       - title: Events
-        url: /events
+        url: events/
   - title: Resources
     url: /resources
