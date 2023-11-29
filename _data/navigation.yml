@@ -10,15 +10,15 @@ links:
     url: /
     sublinks:
       - title: Resources For General Public
-        url: /resources/for-general-public
+        url: /resourcesandmedia/resources-for-general-public
       - title: Resources For Professionals
-        url: /resources/for-professionals
+        url: /resourcesandmedia/resources-for-professionals
   - title: Media
     url: /
     sublinks:
       - title: News
-        url: /resources/news
+        url: /resourcesandmedia/news
       - title: Announcements
-        url: /resources/announcements
+        url: /resourcesandmedia/announcements
       - title: Updates
-        url: /resources/updates
+        url: /resourcesandmedia/updates
