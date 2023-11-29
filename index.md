@@ -14,33 +14,18 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      dropdown:
-        title: E-Services
-        options:
-          - title: For General Public
-            url: Service 2
-          - title: Service 1
-            url: ""
-          - title: Service 2
-            url: ""
-          - title: For Professionals
-            url: ""
-          - title: Service 1
-            url: ""
-          - title: Service 2
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
+      key_highlights:
+        - title: About CDA
+          description: Find out what we do
+          url: ""
+        - title: E-Services for General Public
+          description: Lorem Ipsum
+          url: ""
+        - title: E-services For Professionals
+          description: Lorem Ipsum
+          url: ""
+      button: What we do
+      url: /
   - resources:
       title: Latest Resources
       id: resources
@@ -73,12 +58,17 @@ sections:
         - title: CDA Partners with Local Hospitals for Enhanced Disease Monitoring and
             Control
           date: 08 November 2023
-          announcement: Announcement content
+          announcement: In a groundbreaking initative, the Communicable Diseases Agency
+            (CDA) has forged a strategic partnership with local hospitals to
+            elevate disease monitoring control...
           link_text: Read more
           link_url: /
-        - title: '"Living with HIV" A Support and Awareness Workshop This Month'
-          date: 29 November 2023
-          announcement: Text preview of the event
+        - title: '"Living with HIV" A Support and Awareness Workshop This October'
+          date: 01 October 2023
+          announcement: Join us on the 20th October 2023 for "Living with HIV", a crucial
+            support and awareness workshop. This event aims to foster a
+            compassionate community, providing valuable insights into the
+            challenges faced by individuals living with HIV.
           link_text: Register now
           link_url: /
   - infopic:
