@@ -8,13 +8,13 @@ notification: "Alert: Increase in Mosquito Activity Detected; Heightened Risk of
   Dengue and Zika."
 sections:
   - hero:
-      title: The Socio-Economic Impact of HIV/AIDS in Singapore
+      title: The Socio-Economic Impact of HIV/AIDS  in Singapore
       subtitle: Latest Study
-      background: /images/home_hero_image_2.png
-      variant: center
+      background: /images/r1.png
+      variant: floating
       size: md
-      alignment: left
-      backgroundColor: white
+      alignment: right
+      backgroundColor: black
       button: Learn more
       url: /contact-us/
       key_highlights:
