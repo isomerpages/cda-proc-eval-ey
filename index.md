@@ -19,10 +19,10 @@ sections:
           description: Find out what we do
           url: ""
         - title: For General Public
-          description: Lorem Ipsum
+          description: Resources and eServices
           url: ""
         - title: For Professionals
-          description: Lorem Ipsum
+          description: Resources and eServices
           url: ""
       button: Learn more
       url: /
