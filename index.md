@@ -24,29 +24,11 @@ sections:
         - title: For Professionals
           description: eServices and Resources
           url: ""
-  - announcements:
-      title: Latest CDA Updates
-      id: announcements
-      subtitle: Alert
-      announcement_items:
-        - title: "CDA Partners with Local Hospitals "
-          date: 28 November 2023
-          announcement: "News: CDA Partners with Local Hospitals for Enhanced Disease
-            Monitoring and Control"
-          link_text: Learn more >
-          link_url: /
-        - title: Event
-          date: 08 November 2023
-          announcement: 'Event: "Living with HIV" – A support and awareness workshop this
-            month'
-          link_text: Register now >
-          link_url: /
-        - title: Update
-          date: 29 November 2023
-          announcement: "CDA releases updated Health and Safety Guidelines for schools and
-            educational institutes  "
-          link_text: Learn more >
-          link_url: /
+  - resources:
+      title: Latest Resources
+      subtitle: Stay informed with our
+      id: resources
+      button: View all Resources
   - textcards:
       title: Popular Links
       subtitle: Popular Links
@@ -65,6 +47,29 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - announcements:
+      title: Latest CDA Updates
+      id: announcements
+      subtitle: Alert
+      announcement_items:
+        - title: CDA Partners with Local Hospitals
+          date: 28 November 2023
+          announcement: "News: CDA Partners with Local Hospitals for Enhanced Disease
+            Monitoring and Control"
+          link_text: Learn more >
+          link_url: /
+        - title: Event
+          date: 08 November 2023
+          announcement: 'Event: "Living with HIV" – A support and awareness workshop this
+            month'
+          link_text: Register now >
+          link_url: /
+        - title: Update
+          date: 29 November 2023
+          announcement: CDA releases updated Health and Safety Guidelines for schools and
+            educational institutes
+          link_text: Learn more >
+          link_url: /
   - infocols:
       title: Info-columns 123
       subtitle: Testing Tseting
@@ -77,9 +82,4 @@ sections:
           description: Infobox description
         - title: Infobox
           description: Infobox description
-  - resources:
-      title: Latest Resources
-      subtitle: Stay informed with our
-      id: resources
-      button: View all Resources
 ---
