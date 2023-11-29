@@ -14,18 +14,33 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      button: Find out more
-      url: /contact-us/
-      key_highlights:
-        - title: What we do
-          description: Key Highlight description
-          url: ""
-        - title: E-Services for General Public
-          description: Lorem Ipsum
-          url: ""
-        - title: E-services For Professionals
-          description: Lorem Ipsum
-          url: ""
+      dropdown:
+        title: E-Services
+        options:
+          - title: For General Public
+            url: Service 2
+          - title: Service 1
+            url: ""
+          - title: Service 2
+            url: ""
+          - title: For Professionals
+            url: ""
+          - title: Service 1
+            url: ""
+          - title: Service 2
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
+          - title: Hero Dropdown Element Title
+            url: ""
   - resources:
       title: Latest Resources
       id: resources
@@ -66,4 +81,8 @@ sections:
           announcement: Text preview of the event
           link_text: Register now
           link_url: /
+  - infopic:
+      id: infopic
+      image: /images/home_hero_image_2.png
+      alt: Image alt text
 ---
