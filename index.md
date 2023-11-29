@@ -51,6 +51,17 @@ sections:
           description: Find steps you can take to stay safe while travelling
           linktext: Read Resource →
           url: ""
+  - infopic:
+      title: '"Living with HIV" A Support and Awareness Workshop'
+      subtitle: Upcoming event
+      id: infopic
+      description: Join us for a workshop on 20th October 2023 at Asia Square to
+        exchange valuable insights into the challenges faced by individuals with
+        HIV.
+      button: Sign up now
+      url: /
+      image: /images/world_aids_day_concept_arrangement_1.png
+      alt: Image alt text
   - announcements:
       title: Upcoming Events
       id: announcements
@@ -72,15 +83,4 @@ sections:
             challenges faced by individuals living with HIV.
           link_text: Register now →
           link_url: /
-  - infopic:
-      title: '"Living with HIV" A Support and Awareness Workshop'
-      subtitle: Upcoming event
-      id: infopic
-      description: Join us for a workshop on 20th October 2023 at Asia Square to
-        exchange valuable insights into the challenges faced by individuals with
-        HIV.
-      button: Sign up now
-      url: /
-      image: /images/world_aids_day_concept_arrangement_1.png
-      alt: Image alt text
 ---
