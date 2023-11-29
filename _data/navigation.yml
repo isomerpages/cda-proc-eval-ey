@@ -4,21 +4,19 @@ links:
     collection: about
   - title: E-Services
     collection: e-services
+  - title: Resources
+    url: /permalink
+    sublinks:
+      - title: Resources for General Public
+        url: /resources-and-media/for-general-public
+      - title: Resources for Professionals
+        url: /resources-and-media/resources-for-professionals
   - title: Events
     collection: events
-  - title: Resources
-    url: /
-    sublinks:
-      - title: Resources For General Public
-        url: /resources-and-media/resources-for-general-public
-      - title: Resources For Professionals
-        url: /resources-and-media/resources-for-professionals
   - title: Media
-    url: /
+    url: /permalink
     sublinks:
       - title: News
-        url: /resources-and-media/news
+        url: /media-and-resources/news
       - title: Announcements
         url: /resources-and-media/announcements
-      - title: Updates
-        url: /resources-and-media/updates
