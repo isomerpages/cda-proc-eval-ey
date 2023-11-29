@@ -16,5 +16,12 @@ links:
         url: /permalink
       - title: Resources
         url: resources/for-general-public/
-  - title: News
-    collection: news
+  - title: RESOURCES
+    url: /resources
+  - title: Events & NEws
+    url: /permalink
+    sublinks:
+      - title: News
+        url: /news
+      - title: Events
+        url: /events
