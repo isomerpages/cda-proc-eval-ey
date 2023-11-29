@@ -1,0 +1,20 @@
+collections:
+  general-public:
+    output: true
+    order:
+      - E Services/.keep
+      - E Services/EServices Overview.md
+      - E Services/Outbreak Dashboard.md
+      - E Services/Symptoms Checker.md
+      - E Services/Clinic Locator.md
+      - E Services/Vaccination Scheduler.md
+      - E Services/Travel Advisory Portal.md
+      - E Services/Health Educational Hub.md
+      - Resources/Resource Overview.md
+      - Resources/Outbreak Updates.md
+      - Resources/National Health Initiatives.md
+      - Resources/Vaccination Information.md
+      - Resources/Communicable Diseases and Conditions.md
+      - Resources/COVID 19 Epidemiology.md
+      - Resources/Preventive Measures.md
+      - Resources/.keep
