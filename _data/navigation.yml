@@ -15,8 +15,6 @@ links:
     resource_room: true
   - title: Events
     collection: events
-  - title: News
-    collection: news
   - title: Events 2
     url: /events
   - title: News 2
