@@ -13,3 +13,7 @@ links:
     collection: e-services
   - title: Resources
     resource_room: true
+  - title: Events
+    collection: events
+  - title: News
+    collection: news
