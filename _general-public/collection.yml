@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - eServices.md
-      - E Services/.keep
-      - E Services/EServices Overview.md
-      - E Services/Outbreak Dashboard.md
-      - E Services/Symptoms Checker.md
-      - E Services/Clinic Locator.md
-      - E Services/Vaccination Scheduler.md
-      - E Services/Travel Advisory Portal.md
-      - E Services/Health Educational Hub.md
+      - EServices/.keep
+      - EServices/EServices Overview.md
+      - EServices/Outbreak Dashboard.md
+      - EServices/Symptoms Checker.md
+      - EServices/Clinic Locator.md
+      - EServices/Vaccination Scheduler.md
+      - EServices/Travel Advisory Portal.md
+      - EServices/Health Educational Hub.md
       - Resources/.keep
       - Resources/Resource Overview.md
       - Resources/Outbreak Updates.md
