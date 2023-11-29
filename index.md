@@ -22,7 +22,7 @@ sections:
           description: Learn more about CDA
           url: ""
         - title: For general public
-          description: eServices and Resources
+          description: eServices
           url: ""
         - title: For Professionals
           description: eServices and Resources
