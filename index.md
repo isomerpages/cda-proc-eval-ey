@@ -31,8 +31,7 @@ sections:
       id: resources
       button: View all Resources
   - textcards:
-      title: News & Events
-      subtitle: What's happening
+      title: Popular Links
       id: textcards
       cards:
         - title: Testing Positive for COVID-19
@@ -58,14 +57,13 @@ sections:
       announcement_items:
         - title: CDA Partners with Local Hospitals for Enhanced Disease Monitoring and
             Control
-          date: 29 November 2023
+          date: 08 November 2023
           announcement: Announcement content
           link_text: Read more
           link_url: /
-        - title: Announcement
+        - title: '"Living with HIV" A Support and Awareness Workshop This Month'
           date: 29 November 2023
-          announcement: 'Event: "Living with HIV" A Support and Awareness Workshop This
-            Month'
-          link_text: ""
-          link_url: ""
+          announcement: Text preview of the event
+          link_text: Register now
+          link_url: /
 ---
