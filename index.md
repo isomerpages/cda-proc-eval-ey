@@ -31,13 +31,14 @@ sections:
       announcement_items:
         - title: "CDA Partners with Local Hospitals "
           date: 28 November 2023
-          announcement: CDA Partners with Local Hospitals for Enhanced Disease Monitoring
-            and Control
+          announcement: "News: CDA Partners with Local Hospitals for Enhanced Disease
+            Monitoring and Control"
           link_text: Learn more >
           link_url: /
         - title: Event
           date: 08 November 2023
-          announcement: '"Living with HIV" – A support and awareness workshop this month'
+          announcement: 'Event: "Living with HIV" – A support and awareness workshop this
+            month'
           link_text: Register now >
           link_url: /
         - title: Update
