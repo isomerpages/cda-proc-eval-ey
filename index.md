@@ -32,7 +32,7 @@ sections:
       id: resources
       button: View all
   - textcards:
-      title: Popular Links
+      title: Useful Links
       id: textcards
       cards:
         - title: Testing Positive for COVID-19
