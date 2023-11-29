@@ -2,20 +2,9 @@ logo: /images/cda_logo_2.png
 links:
   - title: About Us
     collection: about
-  - title: Events & News
-    url: /permalink
-    sublinks:
-      - title: News
-        url: /news/
-      - title: Events
-        url: /events/
   - title: E-Services
     collection: e-services
-  - title: Resources
+  - title: Media & Resources
     resource_room: true
   - title: Events
     collection: events
-  - title: Events 2
-    url: /events
-  - title: News 2
-    url: /resources/for-general-public
