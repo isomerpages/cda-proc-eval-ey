@@ -1,5 +1,5 @@
 collections:
-  archived:
+  x-archived:
     output: true
     order:
       - E Services/.keep
