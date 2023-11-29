@@ -2,26 +2,14 @@ logo: /images/cda_logo_2.png
 links:
   - title: About Us
     collection: about
-  - title: For Professionals
-    url: /permalink
-    sublinks:
-      - title: e-Services
-        url: /permalink
-      - title: Resources
-        url: /permalink
-  - title: For General Public
-    url: /general-public-overview/
-    sublinks:
-      - title: e-Services
-        url: /permalink
-      - title: Resources
-        url: resources/for-general-public/
   - title: Events & News
     url: /permalink
     sublinks:
       - title: News
-        url: news/
+        url: /news/
       - title: Events
-        url: events/
+        url: /events/
+  - title: E-Services
+    collection: e-services
   - title: Resources
-    url: /resources
+    resource_room: true
