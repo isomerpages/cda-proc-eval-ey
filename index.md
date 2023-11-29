@@ -52,7 +52,7 @@ sections:
           linktext: Read Resource →
           url: ""
   - announcements:
-      title: Events
+      title: Upcoming Events
       id: announcements
       subtitle: What's happening
       announcement_items:
