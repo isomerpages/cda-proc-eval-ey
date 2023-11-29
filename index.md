@@ -53,16 +53,4 @@ sections:
           description: Find steps you can take to stay safe while travelling
           linktext: Read Resource
           url: ""
-  - infocols:
-      title: Info-columns 123
-      subtitle: Testing Tseting
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
 ---
