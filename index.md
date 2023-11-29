@@ -51,4 +51,21 @@ sections:
           description: Find steps you can take to stay safe while travelling
           linktext: Read Resource
           url: ""
+  - announcements:
+      title: News & Events
+      id: announcements
+      subtitle: What's happening
+      announcement_items:
+        - title: CDA Partners with Local Hospitals for Enhanced Disease Monitoring and
+            Control
+          date: 29 November 2023
+          announcement: Announcement content
+          link_text: Read more
+          link_url: /
+        - title: Announcement
+          date: 29 November 2023
+          announcement: 'Event: "Living with HIV" A Support and Awareness Workshop This
+            Month'
+          link_text: ""
+          link_url: ""
 ---
