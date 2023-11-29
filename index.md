@@ -31,6 +31,7 @@ sections:
       title: Latest Media & Resources
       id: resources
       button: View all
+      subtitle: What's Happening
   - textcards:
       title: Useful Links
       id: textcards
@@ -62,25 +63,4 @@ sections:
       url: /
       image: /images/world_aids_day_concept_arrangement_1.png
       alt: Image alt text
-  - announcements:
-      title: Upcoming Events
-      id: announcements
-      subtitle: What's happening
-      announcement_items:
-        - title: CDA Partners with Local Hospitals for Enhanced Disease Monitoring and
-            Control
-          date: 08 November 2023
-          announcement: In a groundbreaking initative, the Communicable Diseases Agency
-            (CDA) has forged a strategic partnership with local hospitals to
-            elevate disease monitoring control...
-          link_text: Register now →
-          link_url: /
-        - title: '"Living with HIV" A Support and Awareness Workshop This October'
-          date: 01 October 2023
-          announcement: Join us on the 20th October 2023 for "Living with HIV", a crucial
-            support and awareness workshop. This event aims to foster a
-            compassionate community, providing valuable insights into the
-            challenges faced by individuals living with HIV.
-          link_text: Register now →
-          link_url: /
 ---
