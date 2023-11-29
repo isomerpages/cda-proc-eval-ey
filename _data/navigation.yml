@@ -10,9 +10,9 @@ links:
     url: /
     sublinks:
       - title: Resources For General Public
-        url: /resourcesandmedia/resources-for-general-public
+        url: /resources/resources-for-general-public
       - title: Resources For Professionals
-        url: /resourcesandmedia/resources-for-professionals
+        url: /resources/resources-for-professionals
   - title: Media
     url: /
     sublinks:
