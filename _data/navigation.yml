@@ -8,14 +8,14 @@ links:
     url: /permalink
     sublinks:
       - title: Resources for General Public
-        url: /resources-and-media/for-general-public
+        url: /resources-and-media/resources-for-general-public
       - title: Resources for Professionals
         url: /resources-and-media/resources-for-professionals
   - title: Media
     url: /permalink
     sublinks:
       - title: News
-        url: /media-and-resources/news
+        url: /resources-and-media/news
       - title: Announcements
         url: /resources-and-media/announcements
   - title: Events
