@@ -71,8 +71,4 @@ sections:
             challenges faced by individuals living with HIV.
           link_text: Register now →
           link_url: /
-  - infopic:
-      id: infopic
-      image: /images/home_hero_image_2.png
-      alt: Image alt text
 ---
