@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - "Events/Oct 2023: Living with HIV.md"
       - Events/.keep
       - News/.keep
