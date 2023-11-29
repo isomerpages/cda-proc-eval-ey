@@ -49,7 +49,7 @@ sections:
       cards:
         - title: Testing Positive for COVID-19
           description: Learn what to do when you test positive for COVID-19
-          linktext: Learn more →
+          linktext: View Resource →
           url: ""
         - title: FAQs
           description: Most frequently asked questions on communicable diseases
@@ -57,10 +57,10 @@ sections:
           url: ""
         - title: Outbreak Updates
           description: Last updated 29 Nov 2023
-          linktext: Learn more →
+          linktext: View Announcement →
           url: ""
         - title: Safe Travels
           description: Find steps you can take to stay safe while travelling
-          linktext: Read Resource →
+          linktext: View Resource →
           url: ""
 ---
