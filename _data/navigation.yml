@@ -11,8 +11,6 @@ links:
         url: /resources-and-media/for-general-public
       - title: Resources for Professionals
         url: /resources-and-media/resources-for-professionals
-  - title: Events
-    collection: events
   - title: Media
     url: /permalink
     sublinks:
@@ -20,3 +18,5 @@ links:
         url: /media-and-resources/news
       - title: Announcements
         url: /resources-and-media/announcements
+  - title: Events
+    collection: events
