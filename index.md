@@ -32,7 +32,7 @@ sections:
       button: View all Resources
   - textcards:
       title: News & Events
-      subtitle: Latest happenings
+      subtitle: What's happening
       id: textcards
       cards:
         - title: Testing Positive for COVID-19
