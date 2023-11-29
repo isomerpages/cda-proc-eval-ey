@@ -44,7 +44,7 @@ sections:
       image: /images/world_aids_day_concept_arrangement_1.png
       alt: Image alt text
   - textcards:
-      title: Useful Links
+      title: Popular Links
       id: textcards
       cards:
         - title: Testing Positive for COVID-19
