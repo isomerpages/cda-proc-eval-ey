@@ -8,33 +8,31 @@ notification: "Alert: Increase in Mosquito Activity Detected; Heightened Risk of
   Dengue and Zika."
 sections:
   - hero:
-      title: The Socio-Economic Impact of HIV/AIDS in Singapore
-      subtitle: Latest Study
-      background: /images/home_hero_image_2.png
+      title: Communicable Disease Agency
+      background: /images/home_hero_image_1.png
       variant: floating
       size: md
       alignment: left
       backgroundColor: gray
-      button: Read more
+      button: Find out more
       url: /contact-us/
       key_highlights:
-        - title: About us
-          description: Learn more about CDA
+        - title: What we do
+          description: Key Highlight description
           url: ""
-        - title: For general public
-          description: eServices
+        - title: E-Services for General Public
+          description: Lorem Ipsum
           url: ""
-        - title: For Professionals
-          description: eServices and Resources
+        - title: E-services For Professionals
+          description: Lorem Ipsum
           url: ""
   - resources:
-      title: News and Information
-      subtitle: Latest updates
+      title: Latest Resources
       id: resources
       button: View all Resources
   - textcards:
-      title: Popular Links
-      subtitle: Looking for something?
+      title: News & Events
+      subtitle: Latest happenings
       id: textcards
       cards:
         - title: Testing Positive for COVID-19
