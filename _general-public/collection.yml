@@ -2,7 +2,6 @@ collections:
   general-public:
     output: true
     order:
-      - eServices.md
       - EServices/.keep
       - EServices/EServices Overview.md
       - EServices/Outbreak Dashboard.md
