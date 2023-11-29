@@ -2,9 +2,9 @@ logo: /images/cda_logo_2.png
 links:
   - title: About Us
     collection: about
-  - title: Events & News
-    url: /permalink
   - title: For General Public
     collection: general-public
   - title: For Professionals
     collection: professionals
+  - title: Resources
+    resource_room: true
