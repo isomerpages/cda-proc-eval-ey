@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Communicable Diseases Agency
 description: An Isomer site of the Singapore Government
 image: /images/cda_logo_2.png
 permalink: /
