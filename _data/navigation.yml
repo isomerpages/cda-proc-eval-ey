@@ -17,3 +17,5 @@ links:
     collection: events
   - title: News
     collection: news
+  - title: News 2
+    url: /news
