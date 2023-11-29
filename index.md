@@ -9,7 +9,7 @@ notification: "Alert: Increase in Mosquito Activity Detected; Heightened Risk of
 sections:
   - hero:
       title: Communicable Disease Agency
-      background: /images/home_hero_image_1.png
+      background: /images/woman_scientist_working_laboratory_examining_biochemistry_sample_test_tube_science_technology_research_development_study_concept.png
       variant: center
       size: md
       alignment: left
