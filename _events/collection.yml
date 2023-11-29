@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Past Events.md
-      - Upcoming Events 2023/Living with HIV 2023.md
-      - Upcoming Events 2023/.keep
+      - Upcoming Events/Living with HIV 2023.md
+      - Upcoming Events/.keep
