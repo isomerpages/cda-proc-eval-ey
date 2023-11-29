@@ -10,7 +10,7 @@ sections:
   - hero:
       title: Communicable Disease Agency
       background: /images/home_hero_image_1.png
-      variant: floating
+      variant: center
       size: md
       alignment: left
       backgroundColor: gray
@@ -24,8 +24,9 @@ sections:
         - title: E-services For Professionals
           description: Lorem Ipsum
           url: ""
-      button: What we do
+      button: Learn more
       url: /
+      subtitle: Protecting the people of Singapore from communicable diseases.
   - resources:
       title: Latest Media & Resources
       id: resources
