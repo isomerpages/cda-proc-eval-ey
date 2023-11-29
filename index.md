@@ -27,9 +27,9 @@ sections:
       button: What we do
       url: /
   - resources:
-      title: Latest Resources
+      title: Latest Media & Resources
       id: resources
-      button: View all Resources
+      button: View all
   - textcards:
       title: Popular Links
       id: textcards
@@ -51,7 +51,7 @@ sections:
           linktext: Read Resource →
           url: ""
   - announcements:
-      title: News & Events
+      title: Events
       id: announcements
       subtitle: What's happening
       announcement_items:
@@ -61,7 +61,7 @@ sections:
           announcement: In a groundbreaking initative, the Communicable Diseases Agency
             (CDA) has forged a strategic partnership with local hospitals to
             elevate disease monitoring control...
-          link_text: Read more →
+          link_text: Register now →
           link_url: /
         - title: '"Living with HIV" A Support and Awareness Workshop This October'
           date: 01 October 2023
