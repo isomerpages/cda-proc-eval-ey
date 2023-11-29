@@ -1,5 +1,5 @@
 collections:
-  general-public:
+  archived:
     output: true
     order:
       - E Services/.keep
