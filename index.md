@@ -10,30 +10,42 @@ sections:
   - hero:
       title: The Socio-Economic Impact of HIV/AIDS in Singapore
       subtitle: Latest Study
-      background: /images/r3.png
+      background: /images/home_hero_image_2.png
       variant: floating
       size: md
-      alignment: right
-      backgroundColor: black
-      button: Learn more
+      alignment: left
+      backgroundColor: gray
+      button: Read more
       url: /contact-us/
       key_highlights:
         - title: For General Public
-          description: Key Highlight description
+          description: eServices and Resources
           url: ""
         - title: For Professionals
-          description: Key Highlight description
+          description: eServices and Resources
           url: ""
   - announcements:
-      title: Announcements
+      title: Latest CDA Updates
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Alert
       announcement_items:
-        - title: New Announcement
+        - title: News
           date: 28 November 2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: CDA Partners with Local Hospitals for Enhanced Disease Monitoring
+            and Control
+          link_text: Learn more >
+          link_url: /
+        - title: Event
+          date: 08 November 2023
+          announcement: '"Living with HIV" – A support and awareness workshop this month'
+          link_text: Register now >
+          link_url: /
+        - title: Update
+          date: 29 November 2023
+          announcement: "CDA releases updated Health and Safety Guidelines for schools and
+            educational institutes  "
+          link_text: Learn more >
+          link_url: /
   - textcards:
       title: Text Cards
       subtitle: Add informational text
