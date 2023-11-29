@@ -9,7 +9,7 @@ links:
   - title: News & Events
     collection: news-and-events
   - title: For General Public
-    url: /permalink
+    url: /general-public-overview/
     sublinks:
       - title: e-Services
         url: /permalink
