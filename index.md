@@ -27,26 +27,6 @@ sections:
       button: Learn more
       url: /
       subtitle: Protecting the people of Singapore from communicable diseases.
-  - textcards:
-      title: Quick Links
-      id: textcards
-      cards:
-        - title: e-Services for General Public
-          description: ""
-          linktext: Explore →
-          url: ""
-        - title: Resources for General Public
-          description: ""
-          linktext: Explore →
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
   - resources:
       title: Latest Media & Resources
       id: resources
