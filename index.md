@@ -9,7 +9,7 @@ notification: "ALERT: Increase in Mosquito Activity Detected; Heightened Risk of
 sections:
   - hero:
       title: Stay Informed, Stay Healthy
-      background: /images/woman_scientist_working_laboratory_examining_biochemistry_sample_test_tube_science_technology_research_development_study_concept2.png
+      background: /images/woman_scientist_working_laboratory_examining_biochemistry_sample_test_tube_science_technology_research_development_study_concept3.png
       variant: center
       size: md
       alignment: left
