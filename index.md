@@ -21,7 +21,7 @@ sections:
           description: Find out what we do
           url: ""
         - title: For General Public
-          description: Resources & eServices
+          description: Resources and eServices
           url: /for-general-public
         - title: For Professionals
           description: Resources and eServices
