@@ -8,25 +8,53 @@ notification: "ALERT: Increase in Mosquito Activity Detected; Heightened Risk of
   Dengue and Zika."
 sections:
   - hero:
-      title: We are Communicable Disease Agency
+      title: Stay Informed, Stay Healthy
       background: /images/woman_scientist_working_laboratory_examining_biochemistry_sample_test_tube_science_technology_research_development_study_concept2.png
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
-      key_highlights:
-        - title: About CDA
-          description: Find out what we do
+      subtitle: At Communicable Diseases Agency, we empower you with the knowledge to
+        protect your health and community.
+      dropdown:
+        title: E-Services
+        options:
+          - title: E-Services For General Public
+            url: ""
+          - title: Outbreak Dashboard
+            url: ""
+          - title: Symptoms Checker
+            url: ""
+          - title: Facility Locator
+            url: ""
+          - title: E-Services For Professionals
+            url: ""
+          - title: Check Approved Panel Doctors
+            url: ""
+          - title: Health Alert Dashboard
+            url: ""
+          - title: Grant Application
+            url: ""
+  - textcards:
+      title: Quick Links
+      id: textcards
+      cards:
+        - title: eServices for General Public
+          description: ""
+          linktext: Explore →
           url: ""
-        - title: For General Public
-          description: Resources and eServices
-          url: /for-general-public
-        - title: For Professionals
-          description: Resources and eServices
+        - title: Resources for General Public
+          description: ""
+          linktext: Explore →
           url: ""
-      button: Learn more
-      url: /
-      subtitle: Protecting the people of Singapore from communicable diseases.
+        - title: eServices for Professionals
+          description: ""
+          linktext: Explore →
+          url: ""
+        - title: Resources for Professionals
+          description: ""
+          linktext: Explore →
+          url: ""
   - resources:
       title: Latest Media & Resources
       id: resources
@@ -44,7 +72,7 @@ sections:
       image: /images/world_aids_day_concept_arrangement_1.png
       alt: Image alt text
   - textcards:
-      title: Popular Links
+      title: Useful Links
       id: textcards
       cards:
         - title: Testing Positive for COVID-19
