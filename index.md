@@ -72,7 +72,7 @@ sections:
           description: ""
           linktext: Explore →
           url: ""
-        - title: E-Services and Resouces for Professionals
+        - title: E-Services and Resources for Professionals
           description: ""
           linktext: Explore →
           url: ""
