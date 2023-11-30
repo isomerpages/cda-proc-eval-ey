@@ -4,16 +4,13 @@ links:
     collection: about
   - title: E-Services
     collection: e-services
-  - title: Resources
+  - title: Resources & Media
     url: /permalink
     sublinks:
-      - title: For General Public
+      - title: Resources For General Public
         url: /resources-and-media/resources-for-general-public
-      - title: For Professionals
+      - title: Resources For Professionals
         url: /resources-and-media/resources-for-professionals
-  - title: Media
-    url: /permalink
-    sublinks:
       - title: News
         url: /resources-and-media/news
       - title: Announcements
