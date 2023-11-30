@@ -8,7 +8,7 @@ notification: "ALERT: Increase in Mosquito Activity Detected; Heightened Risk of
   Dengue and Zika."
 sections:
   - hero:
-      title: Communicable Disease Agency
+      title: We are Communicable Disease Agency
       background: /images/woman_scientist_working_laboratory_examining_biochemistry_sample_test_tube_science_technology_research_development_study_concept2.png
       variant: center
       size: md
@@ -27,6 +27,26 @@ sections:
       button: Learn more
       url: /
       subtitle: Protecting the people of Singapore from communicable diseases.
+  - textcards:
+      title: Quick Links
+      id: textcards
+      cards:
+        - title: e-Services for General Public
+          description: ""
+          linktext: Explore →
+          url: ""
+        - title: Resources for General Public
+          description: ""
+          linktext: Explore →
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - resources:
       title: Latest Media & Resources
       id: resources
