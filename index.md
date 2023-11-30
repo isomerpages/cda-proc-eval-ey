@@ -16,25 +16,18 @@ sections:
       backgroundColor: gray
       subtitle: At Communicable Diseases Agency, we empower you to protect your health
         and community.
-      dropdown:
-        title: E-Services
-        options:
-          - title: E-Services For General Public
-            url: ""
-          - title: Outbreak Dashboard
-            url: ""
-          - title: Symptoms Checker
-            url: ""
-          - title: Facility Locator
-            url: ""
-          - title: E-Services For Professionals
-            url: ""
-          - title: Check Approved Panel Doctors
-            url: ""
-          - title: Health Alert Dashboard
-            url: ""
-          - title: Grant Application
-            url: ""
+      key_highlights:
+        - title: About CDA
+          description: Find out what we do
+          url: ""
+        - title: For General Public
+          description: Resources & eServices
+          url: ""
+        - title: For Professionals
+          description: Resources and eServices
+          url: ""
+      button: Learn more
+      url: /
   - textcards:
       title: Quick Links
       id: textcards
