@@ -4,7 +4,7 @@ title: Communicable Diseases Agency
 description: An Isomer site of the Singapore Government
 image: /images/cda_logo_2.png
 permalink: /
-notification: "Alert: Increase in Mosquito Activity Detected; Heightened Risk of
+notification: "ALERT: Increase in Mosquito Activity Detected; Heightened Risk of
   Dengue and Zika."
 sections:
   - hero:
