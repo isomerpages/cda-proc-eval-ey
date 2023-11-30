@@ -14,8 +14,8 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      subtitle: At Communicable Diseases Agency, we empower you with the knowledge to
-        protect your health and community.
+      subtitle: At Communicable Diseases Agency, we empower you to protect your health
+        and community.
       dropdown:
         title: E-Services
         options:
