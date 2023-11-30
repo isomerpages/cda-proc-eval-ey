@@ -28,6 +28,18 @@ sections:
           url: ""
       button: Learn more
       url: /
+  - textcards:
+      title: Quick Links
+      id: textcards
+      cards:
+        - title: E-Services and Resources for the General Public
+          description: ""
+          linktext: Explore →
+          url: ""
+        - title: E-Services and Resources for Professionals
+          description: ""
+          linktext: Explore →
+          url: ""
   - resources:
       title: Latest Media & Resources
       id: resources
@@ -63,17 +75,5 @@ sections:
         - title: Safe Travels
           description: Find steps you can take to stay safe while travelling
           linktext: View Resource →
-          url: ""
-  - textcards:
-      title: Quick Links
-      id: textcards
-      cards:
-        - title: E-Services and Resources for the General Public
-          description: ""
-          linktext: Explore →
-          url: ""
-        - title: E-Services and Resources for Professionals
-          description: ""
-          linktext: Explore →
           url: ""
 ---
