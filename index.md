@@ -22,7 +22,7 @@ sections:
           url: ""
         - title: For General Public
           description: Resources & eServices
-          url: ""
+          url: /for-general-public
         - title: For Professionals
           description: Resources and eServices
           url: ""
