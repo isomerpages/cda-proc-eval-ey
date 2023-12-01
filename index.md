@@ -28,18 +28,6 @@ sections:
           url: ""
       button: Learn more
       url: /
-  - textcards:
-      title: Quick Links
-      id: textcards
-      cards:
-        - title: E-Services and Resources for the General Public
-          description: ""
-          linktext: Explore →
-          url: ""
-        - title: E-Services and Resources for Professionals
-          description: ""
-          linktext: Explore →
-          url: ""
   - resources:
       title: Latest Media & Resources
       id: resources
