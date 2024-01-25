@@ -1,0 +1,10 @@
+collections:
+  e-services:
+    output: true
+    order:
+      - For General Public/Overview of eServices for General Public.md
+      - For General Public/Vaccination Scheduler.md
+      - For General Public/.keep
+      - For Professionals/Overview of eServices for Professionals.md
+      - For Professionals/Check Approved Panel Doctors.md
+      - For Professionals/.keep

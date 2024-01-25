@@ -1,0 +1,8 @@
+collections:
+  about:
+    output: true
+    order:
+      - Our Mission, Vision and Core Values.md
+      - Our Management.md
+      - Organisation Structure.md
+      - Contact Us.md

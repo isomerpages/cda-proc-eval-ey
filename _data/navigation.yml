@@ -1,0 +1,19 @@
+logo: /images/cda_logo_2.png
+links:
+  - title: About Us
+    collection: about
+  - title: E-Services
+    collection: e-services
+  - title: Resources & Media
+    url: /permalink
+    sublinks:
+      - title: Resources For General Public
+        url: /resources-and-media/resources-for-general-public
+      - title: Resources For Professionals
+        url: /resources-and-media/resources-for-professionals
+      - title: News
+        url: /resources-and-media/news
+      - title: Announcements
+        url: /resources-and-media/announcements
+  - title: Events
+    collection: events
